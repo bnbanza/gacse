@@ -11,4 +11,4 @@ Al no estar el javascript que conecta el evento del inicio de Sesion o registro 
 ## Pagina de inicio de sesion y registro [https://gacse.netlify.app/]
 ## Pagina de Agenda de Pacientes [https://agenda-gacse.netlify.app/]
 
-##Link de Figma para diseño de wireframes
+##Link de Figma para diseño de wireframes [https://www.figma.com/file/QpOEHWealC73tr0zFzkieG/Agenda-Pacientes?node-id=1%3A53]
